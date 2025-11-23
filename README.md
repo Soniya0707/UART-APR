@@ -307,7 +307,7 @@ v, vi → Sets the maximum limit for I/O port delay to 1ps.
 <img width="1920" height="1080" alt="Screenshot (391)" src="https://github.com/user-attachments/assets/4bfc1875-eb22-45ae-bbfa-f69c8a1b6800" />
 
 
-### Fig 6: UART APR:
+
 
 ## RESULT:
 
